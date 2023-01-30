@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/olaerciopaiva/"><i>Laércio Paiva</i></a></h1>
-  <p align="center">Formado em Analise e desenvolvimento de sistemas pelo SENAC com excelência & cursando Bacharelado em engenharia de software na unopar</div>
+  <p align="center">Formado em Analise e desenvolvimento de sistemas pelo senac com excelência & cursando Bacharelado em engenharia de software na unopar.</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
