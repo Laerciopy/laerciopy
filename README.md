@@ -1,11 +1,6 @@
 <div>
   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/olaerciopaiva/"><i>Laércio Paiva</i></a></h1>
-  <p align="center">Estudo Gestão da tecnologia da informação na <a href="https://www.univates.br/"><i>UNIVATES</i></a>, e Analise e desenvolvimento de sistemas, Aqui vou postar uns testes e aprendizados focados em Python e django.
-</div>
-<div align="center">
-  <a href="https://github.com/laercio.py">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laerciopy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-</div>
+  <p align="center">Formado em Analise e desenvolvimento de sistemas pelo SENAC com excelência & cursando Bacharelado em engenharia de software na unopar</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
