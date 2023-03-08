@@ -41,9 +41,9 @@
 
     Áreas de atuação / Areas Of Expertise: 
   
-    - ⌨️ Analise de dados / data analysis
-    - 📂 Estudante de Engenharia de Software / Software Engineering Student
-    - 🔐 Análise e desenvolvimento de sistemas / Analysis and systems development
+    - ⌨️ Cientista de dados / data scientist
+    - 📂 cursando pós graduação em ciência de dados e inteligência artificial / studying post graduation in data science and artificial intelligence
+    - 🔐 Formado em Análise e desenvolvimento de sistemas / Graduated in Analysis and systems development
   </div>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
